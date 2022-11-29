@@ -1,0 +1,16 @@
+.hoverLink {
+    background-color: rgb(243, 215, 132);
+    color: white;
+    transition: 0.5s;
+    border: 1px solid #6750FE;
+    padding: 7px 20px 7px 20px;
+    display: block;
+    text-decoration: none;
+    color: blue;
+    border-radius: 15px;
+}
+
+.hoverLink:hover {
+    background: #6750FE !important;
+    color: rgb(243, 215, 132) !important;
+}

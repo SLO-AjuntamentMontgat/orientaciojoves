@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+import { useContext } from "react";
+import Router from "./app/Router";
+import { Container, OuterContainer } from "./app/styles";
+import Banner from "./components/Banner";
+import { AppContext } from "./app/Provider";
+import './app/styles.css';
+
+const App = () => {
+  const [state] = useContext(AppContext);
+  console.log(state.back)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <OuterContainer fitScreen={state.fitScreen} style={{ backgroundImage: `url(${state.back})`, backgroundColor: state.backgroundColor }}>
+      <Container>
+
+        <Router />
+      </Container>
+      <Banner />
+
+    </OuterContainer >
+  )
 }
 
 export default App;
