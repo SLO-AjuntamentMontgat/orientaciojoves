@@ -19,7 +19,7 @@ const OrientacioLaboral3 = () => {
 
     return (
         <InnerContainer>
-            <Title>Orientació Laboral</Title>
+            <Title>Orientació laboral</Title>
             <PaddingContainer>
                 <h1 style={{ marginTop: '0' }}>T'Ajudem?</h1>
                 <p>Vine al Servei Local d'Ocupació de l'Ajuntament de Montgat!</p>

@@ -19,25 +19,25 @@ const OrientacioLaboral = () => {
 
     return (
         <InnerContainer>
-            <Title>Orientació Laboral</Title>
+            <Title>Orientació laboral</Title>
             <PaddingContainer>
                 <H2>1. Coneix-te a tu mateix/a</H2>
                 <Links column={true}>
-                    <a target="_blank" rel="noreferrer" href="https://ajuntament.barcelona.cat/joves/ca/canal/autoconeixement-i-presa-de-decisions">Test CLOE</a>
+                    <a target="_blank" rel="noreferrer" href="https://serveiocupacio.gencat.cat/ca/inici">Test CLOE</a>
                     <P2>Servei Ocupació de Catalunya</P2>
-                    <a target="_blank" rel="noreferrer" href="http://www.informat.cat/materials/">Identifica</a>
+                    <a target="_blank" rel="noreferrer" href="http://mapalaboral.org/es/identifica.html">Identifica</a>
                     <P2>Mapa Laboral</P2>
-                    <a target="_blank" rel="noreferrer" href="https://triaeducativa.gencat.cat/ca/orientacio/">Explora</a>
+                    <a target="_blank" rel="noreferrer" href="http://mapalaboral.org/es/explora.html">Explora</a>
                     <P2>Mapa Laboral</P2>
-                    <a target="_blank" rel="noreferrer" href="https://testinteressos.barcelonactiva.cat/?gInterfaceLanguage=ca">Test d’interessos professionals</a>
+                    <a target="_blank" rel="noreferrer" href="https://www.educaweb.cat/orientacio/interessos-professionals/">Test d’interessos professionals</a>
                     <P2>Educaweb</P2>
-                    <a target="_blank" rel="noreferrer" href="https://testinteressos.barcelonactiva.cat/?gInterfaceLanguage=ca">Com detecto les meves competències?</a>
+                    <a target="_blank" rel="noreferrer" href="https://ejoventut.gencat.cat/web/.content/e-joventut/recursos/tipus_de_recurs/documentacio/fitxes_exteses/FE-Recull-Materials-Treball/arxius/Competencies-Format-instagram-.pdf">Com detecto les meves competències?</a>
                     <P2>E-Joventut</P2>
-                    <a target="_blank" rel="noreferrer" href="https://testinteressos.barcelonactiva.cat/?gInterfaceLanguage=ca">La importància de les meves motivacions</a>
+                    <a target="_blank" rel="noreferrer" href="https://ejoventut.gencat.cat/web/.content/e-joventut/recursos/tipus_de_recurs/documentacio/fitxes_exteses/FE-Recull-Materials-Treball/arxius/Motivacions-.pdf">La importància de les meves motivacions</a>
                     <P2>E-Joventut</P2>
-                    <a target="_blank" rel="noreferrer" href="https://testinteressos.barcelonactiva.cat/?gInterfaceLanguage=ca">La importància dels meus interessos</a>
+                    <a target="_blank" rel="noreferrer" href="https://ejoventut.gencat.cat/web/.content/e-joventut/recursos/tipus_de_recurs/documentacio/fitxes_exteses/FE-Recull-Materials-Treball/arxius/Interessos.pdf">La importància dels meus interessos</a>
                     <P2>E-Joventut</P2>
-                    <a target="_blank" rel="noreferrer" href="https://testinteressos.barcelonactiva.cat/?gInterfaceLanguage=ca">Valors del treball</a>
+                    <a target="_blank" rel="noreferrer" href="https://valorsdeltreball.barcelonactiva.cat/?gInterfaceLanguage=ca">Valors del treball</a>
                     <P2>Barcelona Activa</P2>
                 </Links>
 

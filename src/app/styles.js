@@ -172,6 +172,9 @@ body{
 .bold{
   font-weight: bold;
 }
+.center{
+  text-align: center;
+}
 .fade-enter {
   opacity: 0;
   z-index: 1;

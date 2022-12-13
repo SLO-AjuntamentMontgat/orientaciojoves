@@ -16,7 +16,7 @@ const Init = () => {
             <Title>Tens entre 16 i 29 anys?</Title>
             <PaddingContainer>
                 <Links>
-                    <Link2 to="/vius-mongat-i-tiana">sí</Link2>
+                    <Link2 to="/vius-montgat-i-tiana">sí</Link2>
                     <Link2 to="/posat-n-contacte-amb-nosaltres">no</Link2>
 
                 </Links>

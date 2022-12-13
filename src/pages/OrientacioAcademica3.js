@@ -18,9 +18,9 @@ const OrientacioAcademica3 = () => {
 
     return (
         <InnerContainer>
-            <Title>Orientació Acadèmica</Title>
+            <Title>Orientació acadèmica</Title>
             <PaddingContainer>
-                <H2>Coneix el mercat de treball</H2>
+                <H2>3. Coneix el mercat de treball</H2>
                 <Links column={true}>
                     <a target="_blank" rel="noreferrer" href="https://www.informat.cat/explora/">Sectors professionals</a>
                     <P2>Programa Explora. In-forma’t</P2>

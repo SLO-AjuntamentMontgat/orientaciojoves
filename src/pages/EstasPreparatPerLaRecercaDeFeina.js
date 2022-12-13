@@ -28,7 +28,7 @@ const EstasPreparatPerLaRecercaDeFeina = () => {
 
     return (
         <InnerContainer>
-            <Title>ESTÀS PREPARAT/DA PER LA RECERCA DE FEINA?</Title>
+            <Title>Estàs preparat/da per la recerca de feina?</Title>
             <PaddingContainer>
                 <ul>
                     <p><input value={check1} type="checkbox" onChange={e => setCheck1(e.target.checked)} ></input>Sé quines són les meves prioritats laborals i els meus valors professionals</p>

@@ -18,7 +18,7 @@ const OrientacioAcademica = () => {
 
     return (
         <InnerContainer>
-            <Title>Orientació Acadèmica</Title>
+            <Title>Orientació acadèmica</Title>
             <PaddingContainer>
                 <H2>1. Coneix-te a tu mateix/a</H2>
                 <Links column={true}>
@@ -30,7 +30,7 @@ const OrientacioAcademica = () => {
                     <P2>Tria Educativa</P2>
                     <a target="_blank" rel="noreferrer" href="https://testinteressos.barcelonactiva.cat/?gInterfaceLanguage=ca">Test d’interessos professionals</a>
                     <P2>Barcelona Activa</P2>
-                    <a target="_blank" rel="noreferrer" href="https://testinteressos.barcelonactiva.cat/?gInterfaceLanguage=ca">Test CLOE</a>
+                    <a target="_blank" rel="noreferrer" href="http://wwwc.oficinadetreball.gencat.cat/socweb/export/sites/default/socweb_es/ciutadans/orientacioTrobarFeina/cloe.html">Test CLOE</a>
                     <P2>Servei Ocupació de Catalunya</P2>
                 </Links>
                 <RecursosOrientacioAcademica />

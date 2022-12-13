@@ -6,6 +6,9 @@ import Global from './img/global.svg';
 
 const BannerContacte = (props) => (
   <>
+    <ul>
+      <li>Accés al web <a href="https://xaloc.diba.cat/" target="_blank">d’ofertes Xaloc</a></li>
+    </ul>
     <Row style={{ marginTop: '10px' }}>
       <div>
         <img src={Call} />

@@ -29,10 +29,6 @@ const Tajudem = (props) => (
       </li>
     </ul>
     <H3>Ofertes de feina</H3>
-    <ul>
-      <li>Accés al web <a href="https://xaloc.diba.cat/" target="_blank">d’ofertes Xaloc</a></li>
-    </ul>
-
     <BannerContacte />
   </>
 );

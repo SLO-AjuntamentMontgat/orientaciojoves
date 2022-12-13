@@ -16,7 +16,7 @@ const PosatNContacteAmbNosaltres = ({ history }) => {
     return (
         <InnerContainer>
 
-            <Title>POSA'T en CONTACTE amb NOSALTRES</Title>
+            <Title>Posa't en contacte amb nosaltres</Title>
             <PaddingContainer>
                 <p>Al Servei Local d’Ocupació de l’Ajuntament de Montgat t’acompanyem en el teu camí professional.</p>
                 <H3>Orientació</H3>

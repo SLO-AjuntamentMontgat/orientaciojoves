@@ -5,7 +5,7 @@ import { useEffect, useContext } from 'react';
 import { AppContext } from '../app/Provider';
 import back from '../assets/3-estas-fet-alguna-formacio.jpg';
 
-const ViusMongatITiana = () => {
+const ViusMontgatITiana = () => {
 
     const [, setState] = useContext(AppContext);
 
@@ -29,4 +29,4 @@ const ViusMongatITiana = () => {
     )
 }
 
-export default ViusMongatITiana
+export default ViusMontgatITiana

@@ -19,9 +19,9 @@ const OrientacioAcademica2 = () => {
 
     return (
         <InnerContainer>
-            <Title>Orientació Acadèmica</Title>
+            <Title>Orientació acadèmica</Title>
             <PaddingContainer>
-                <H2>Coneix els itineraris formatius que pots fer</H2>
+                <H2>2. Coneix els itineraris formatius que pots fer</H2>
 
                 <Links column={true}>
                     <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=a5L6NDqPoGA">Què puc estudiar?</a>
@@ -31,7 +31,7 @@ const OrientacioAcademica2 = () => {
                     <a target="_blank" rel="noreferrer" href="http://www.informat.cat/recursos-audiovisuals/">Graus Universitaris i Cicles Formatius. In-forma’t</a>
                     <P2>Campanya In-forma’t. Departament de Joventut, a través del Centre d’Assessorament Acadèmic per a Joves (CAAJ) i els serveis infoJOVE Barcelona</P2>
                     <a target="_blank" rel="noreferrer" href="https://universitats.gencat.cat/ca/inici/">Cercador d'estudis de Canal Universitats</a>
-                    <P2>Gencat. Generalitat de Catalunya</P2>
+                    <P2>Generalitat de Catalunya</P2>
                     <a target="_blank" rel="noreferrer" href="https://www.unportal.cat/">Graus Universitaris, Màsters i Cicles Formatius. Unportal</a>
                     <P2>Unportal</P2>
                     <a target="_blank" rel="noreferrer" href="http://www.buxaweb.com/educacio/estudiants.htm#SISTEMA%20EDUCATIU">Recursos del món de l'educació i l'ensenyament secundari a Catalunya</a>

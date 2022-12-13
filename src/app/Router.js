@@ -11,7 +11,7 @@ import PosatNContacteAmbElTeuSLO from '../pages/PosatNContacteAmbElTeuSLO';
 import PosatNContacteAmbNosaltres from '../pages/PosatNContacteAmbNosaltres';
 import SapsQueVolsFer from '../pages/SapsQueVolsFer';
 import TensClarQuinaFeinaCerques from '../pages/TensClarQuinaFeinaCerques';
-import ViusMongatITiana from '../pages/ViusMongatITiana';
+import ViusMontgatITiana from '../pages/ViusMontgatITiana';
 import MentreEstudies from '../pages/MentreEstudies';
 import DerivacioAAltresServeis from '../pages/DerivacioAAltresServeis';
 import NoTAtabalis from '../pages/NoTAtabalis';
@@ -58,7 +58,7 @@ const RoutesList = () => {
                         <Route path="saps-que-vols-estudiar" element={<SapsQueVolsEstudiar />} />
 
                         <Route path="tens-clar-quina-feina-cerques" element={<TensClarQuinaFeinaCerques />} />
-                        <Route path="vius-mongat-i-tiana" element={<ViusMongatITiana />} />
+                        <Route path="vius-montgat-i-tiana" element={<ViusMontgatITiana />} />
                         <Route path="estas-fet-alguna-formacio" element={<EstasFetAlgunaFormacio />} />
                         <Route path="mentres-estudies" element={<MentreEstudies />} />
                         <Route path="derivacio-a-altres-serveis" element={<DerivacioAAltresServeis />} />
