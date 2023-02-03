@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orientaciojoves/static/css/main.249982be.css",
-    "main.js": "/orientaciojoves/static/js/main.a17a3c67.js",
+    "main.js": "/orientaciojoves/static/js/main.41aee70b.js",
     "static/media/8-orientacio-academica.jpg": "/orientaciojoves/static/media/8-orientacio-academica.6867f16589760764da5d.jpg",
     "static/media/7-derivacio-altres-serveis.jpg": "/orientaciojoves/static/media/7-derivacio-altres-serveis.b8a9f4c2f021f4b397b3.jpg",
     "static/media/3-estas-fet-alguna-formacio.jpg": "/orientaciojoves/static/media/3-estas-fet-alguna-formacio.e9315b97dafcccf09d0b.jpg",
@@ -24,10 +24,10 @@
     "index.html": "/orientaciojoves/index.html",
     "static/media/send.svg": "/orientaciojoves/static/media/send.841bc750b822201332d0ba9be97daffb.svg",
     "main.249982be.css.map": "/orientaciojoves/static/css/main.249982be.css.map",
-    "main.a17a3c67.js.map": "/orientaciojoves/static/js/main.a17a3c67.js.map"
+    "main.41aee70b.js.map": "/orientaciojoves/static/js/main.41aee70b.js.map"
   },
   "entrypoints": [
     "static/css/main.249982be.css",
-    "static/js/main.a17a3c67.js"
+    "static/js/main.41aee70b.js"
   ]
 }

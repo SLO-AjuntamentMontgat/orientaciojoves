@@ -45,7 +45,7 @@ const DerivacioAAltresServeis = () => {
 
                 </div>
 
-                <p>No has trobat encara el què buscaves? Consulta <a href="http://www.montgat.cat/serveis-i-tramits/cataleg-de-serveis/joventut/" target="_blank">aquí</a> el catàleg de serveis de l’Ajuntament de Montgat.</p>
+                <p>No has trobat encara el què buscaves? Consulta <a href="http://www.montgat.cat/serveis-i-tramits/cataleg-de-serveis/joventut/" target="_blank">aquí</a> el catàleg de serveis de l’Ajuntament de Montgat o el de l’Ajuntament de Tiana clicant <a href="https://www.tiana.cat/" target="_blank"> aquí</a>.</p>
             </PaddingContainer>
             <ComeBack />
             {/* <Mano3 /> */}
