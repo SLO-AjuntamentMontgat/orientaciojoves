@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orientaciojoves/static/css/main.249982be.css",
-    "main.js": "/orientaciojoves/static/js/main.6a0b3eba.js",
+    "main.js": "/orientaciojoves/static/js/main.a17a3c67.js",
     "static/media/8-orientacio-academica.jpg": "/orientaciojoves/static/media/8-orientacio-academica.6867f16589760764da5d.jpg",
     "static/media/7-derivacio-altres-serveis.jpg": "/orientaciojoves/static/media/7-derivacio-altres-serveis.b8a9f4c2f021f4b397b3.jpg",
     "static/media/3-estas-fet-alguna-formacio.jpg": "/orientaciojoves/static/media/3-estas-fet-alguna-formacio.e9315b97dafcccf09d0b.jpg",
@@ -17,16 +17,17 @@
     "static/media/movil-mano-1.png": "/orientaciojoves/static/media/movil-mano-1.c822b27914a03742a1a5.png",
     "static/media/movil-mano-2.png": "/orientaciojoves/static/media/movil-mano-2.20c494c5aa545be23afa.png",
     "static/media/ClashDisplay-Regular.otf": "/orientaciojoves/static/media/ClashDisplay-Regular.ccc51e2a3c40ce9bca53.otf",
+    "static/media/logo-tiana.png": "/orientaciojoves/static/media/logo-tiana.ca236e41e3a49c687aaf.png",
     "static/media/logo3.png": "/orientaciojoves/static/media/logo3.16baa46125d47b4a0c80.png",
     "static/media/call.svg": "/orientaciojoves/static/media/call.d7cf1cbf2b67253f0e395b5fbda7f85b.svg",
     "static/media/global.svg": "/orientaciojoves/static/media/global.26f05c0b5a640adebe70ecb86539b5ca.svg",
     "index.html": "/orientaciojoves/index.html",
     "static/media/send.svg": "/orientaciojoves/static/media/send.841bc750b822201332d0ba9be97daffb.svg",
     "main.249982be.css.map": "/orientaciojoves/static/css/main.249982be.css.map",
-    "main.6a0b3eba.js.map": "/orientaciojoves/static/js/main.6a0b3eba.js.map"
+    "main.a17a3c67.js.map": "/orientaciojoves/static/js/main.a17a3c67.js.map"
   },
   "entrypoints": [
     "static/css/main.249982be.css",
-    "static/js/main.6a0b3eba.js"
+    "static/js/main.a17a3c67.js"
   ]
 }
